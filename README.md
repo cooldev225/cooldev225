@@ -109,4 +109,7 @@ We do all the work with a polite attitude, thinking that the price and difficult
 <a href="https://join.skype.com/invite/wLxLlPeVi5aC">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://t.me/GoldStar610">
+    <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
 
