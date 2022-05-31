@@ -105,7 +105,7 @@ We do all the work with a polite attitude, thinking that the price and difficult
 
 <a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/wLxLlPeVi5aC">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
