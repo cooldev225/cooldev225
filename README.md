@@ -17,7 +17,7 @@ We do all the work with a polite attitude, thinking that the price and difficult
   <a href="https://join.skype.com/invite/wLxLlPeVi5aC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 
-<p align="center"><img align="center" src="https://github.com/cooldev225/cooldev225/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" src="https://github.com/stardev96610/stardev96610/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
 
