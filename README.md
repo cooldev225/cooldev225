@@ -106,10 +106,10 @@ We do all the work with a polite attitude, thinking that the price and difficult
 <a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/wLxLlPeVi5aC">
+<a href="https://join.skype.com/invite/fpXbfLSpz3oH">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/GoldStar610">
+<a href="https://t.me/NinjaCoder9413">
     <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
