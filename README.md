@@ -15,8 +15,7 @@ We do all the work with a polite attitude, thinking that the price and difficult
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/wLxLlPeVi5aC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-</h1>
-<a href="mailto:goldstar22501@gmail.com">
+  <a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/fpXbfLSpz3oH">
@@ -25,6 +24,8 @@ We do all the work with a polite attitude, thinking that the price and difficult
 <a href="https://t.me/NinjaCoder9413">
     <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
+</h1>
+
 <p align="center"><img align="center" src="https://github.com/stardev96610/stardev96610/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
