@@ -3,12 +3,7 @@
 
 
 
-## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
-A proficient blockchain developer with 10 years of experience, interested in contributing expertise in web and blockchain development to Smart Tech Inc. Capable of excelling as part of a team or individually in a fast-paced environment. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. Disseminated information and education regarding cryptocurrency and blockchain technology, and shared unmatched knowledge on decentralized technologies. Handled all types of programming languages, worked with Git/Github, developed server-side and front-end software, and offered issue tracking and customer support. Launched token sales, developed time-based rules for backing up and restoring system and MySQL, and performed maintenance tasks on administrative Linux server. Managed, mentored, and developed other programmers, while writing, planning, and executing the migration of more than 40 website services to cloud-based services.
-
-I try to lead all projects to success through close cooperation with customers and familiar communication.
-We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
-<a href="mailto:goldstar22501@gmail.com">
+## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!                              <a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/fpXbfLSpz3oH">
@@ -17,6 +12,10 @@ We do all the work with a polite attitude, thinking that the price and difficult
 <a href="https://t.me/NinjaCoder9413">
     <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
+A proficient blockchain developer with 10 years of experience, interested in contributing expertise in web and blockchain development to Smart Tech Inc. Capable of excelling as part of a team or individually in a fast-paced environment. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. Disseminated information and education regarding cryptocurrency and blockchain technology, and shared unmatched knowledge on decentralized technologies. Handled all types of programming languages, worked with Git/Github, developed server-side and front-end software, and offered issue tracking and customer support. Launched token sales, developed time-based rules for backing up and restoring system and MySQL, and performed maintenance tasks on administrative Linux server. Managed, mentored, and developed other programmers, while writing, planning, and executing the migration of more than 40 website services to cloud-based services.
+
+I try to lead all projects to success through close cooperation with customers and familiar communication.
+We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
 
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
