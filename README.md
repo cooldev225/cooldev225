@@ -9,6 +9,17 @@ A proficient blockchain developer with 10 years of experience, interested in con
 I try to lead all projects to success through close cooperation with customers and familiar communication.
 We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
 
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒖𝒔
+
+<a href="mailto:goldstar22501@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/fpXbfLSpz3oH">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://t.me/NinjaCoder9413">
+    <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
