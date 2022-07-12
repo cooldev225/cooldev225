@@ -8,9 +8,6 @@ A proficient blockchain developer with 10 years of experience, interested in con
 
 I try to lead all projects to success through close cooperation with customers and familiar communication.
 We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
-
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒖𝒔
-
 <a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
