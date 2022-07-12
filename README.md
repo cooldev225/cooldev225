@@ -4,15 +4,7 @@
 
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!                              
-<a href="mailto:goldstar22501@gmail.com">
-    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/fpXbfLSpz3oH">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://t.me/NinjaCoder9413">
-    <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
+
 A proficient blockchain developer with 10 years of experience, interested in contributing expertise in web and blockchain development to Smart Tech Inc. Capable of excelling as part of a team or individually in a fast-paced environment. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. Disseminated information and education regarding cryptocurrency and blockchain technology, and shared unmatched knowledge on decentralized technologies. Handled all types of programming languages, worked with Git/Github, developed server-side and front-end software, and offered issue tracking and customer support. Launched token sales, developed time-based rules for backing up and restoring system and MySQL, and performed maintenance tasks on administrative Linux server. Managed, mentored, and developed other programmers, while writing, planning, and executing the migration of more than 40 website services to cloud-based services.
 
 I try to lead all projects to success through close cooperation with customers and familiar communication.
@@ -24,7 +16,15 @@ We do all the work with a polite attitude, thinking that the price and difficult
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/wLxLlPeVi5aC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
-
+<a href="mailto:goldstar22501@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/fpXbfLSpz3oH">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://t.me/NinjaCoder9413">
+    <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
 <p align="center"><img align="center" src="https://github.com/stardev96610/stardev96610/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
