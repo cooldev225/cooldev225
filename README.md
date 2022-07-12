@@ -3,7 +3,8 @@
 
 
 
-## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!                              <a href="mailto:goldstar22501@gmail.com">
+## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!                              
+<a href="mailto:goldstar22501@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/fpXbfLSpz3oH">
